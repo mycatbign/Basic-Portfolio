@@ -93,10 +93,10 @@ hr {
 }
 
 .footer {
-  position:absolute;
-  display: block;
+  position: fixed;
   width:100%;
-  top: 680px;
+  left: 0;
+  bottom: 0;
   height: 50px;
   text-align: center;
   background-color: #666666;
